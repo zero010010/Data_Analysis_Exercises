@@ -1,2 +1,2 @@
-# Tbs_ejercico_Juanmiguel_Lopez
+# Tbs_ejercicos_Juanmiguel_Lopez
 Weekly Exercises Data Science Bootcamp
