@@ -1,7 +1,7 @@
 # Tbs_ejercicos_Juanmiguel_Lopez
 ### Numpy exercises (The Bridge)
 
-These two notebooks are a starting point to lear Numpy.  
+These notebooks contain weekly exercises for The Bridge, Data Science Bootcamp (Sep 2023) .  
 
 
 
