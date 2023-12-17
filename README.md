@@ -1,5 +1,5 @@
 # Tbs_ejercicos_Juanmiguel_Lopez
-### Numpy exercises (The Bridge)
+### Weekly Exercises (The Bridge)
 
 These notebooks contain weekly exercises for The Bridge, Data Science Bootcamp (Sep 2023) .  
 
